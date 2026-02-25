@@ -1,0 +1,27 @@
+.logo {
+  width: 50px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+  border-bottom: 2px solid rgb(21, 147, 46);
+}
+.nav a:active {
+  text-decoration: none;
+  color: rgb(21, 147, 46);
+  margin-left: 20px;
+}
+
+footer {
+  background-color: rgb(21, 147, 46);
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
